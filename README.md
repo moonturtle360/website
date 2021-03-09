@@ -1,2 +1,2 @@
 # website
-Test VS Code commit
+Test VSCode
